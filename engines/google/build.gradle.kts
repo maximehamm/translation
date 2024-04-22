@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm")
 }
 
-group = "io.nimbly.translator"
+group = "io.open-nimbly.translator"
 version = "1.0-SNAPSHOT"
 
 repositories {
